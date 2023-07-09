@@ -75,7 +75,7 @@ margin-bottom: 20px;
 padding: 130px;
 background-color: antiquewhite;
 border-radius: none;
-margin: 130px 130px;
+margin: 130px ;
 }
 .title{
 color: black;
@@ -92,4 +92,16 @@ font-weight: 700;
     
 
 }
+main{
+max-width: 1140px;
+margin: auto;
+}
+.about-info-comtainer{
+display: flex;
+justify-content: space-around;
 
+
+}
+.about-info{
+    text-align: center;
+}
